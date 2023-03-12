@@ -1,0 +1,43 @@
+{
+	"text": [
+		{
+			"color": [
+				0,
+				0,
+				0
+			],
+			"fontScale": 20,
+			"fontType": "DarkGarden",
+			"location": [
+				100,
+				100
+			],
+			"message": "Anabelle"
+		},
+		{
+			"color": [
+				255,
+				0,
+				0
+			],
+			"fontScale": 30,
+			"fontType": "DarkGarden",
+			"location": [
+				400,
+				300
+			],
+			"message": "AGold Award"
+		}
+	],
+	"image": [
+		{
+			"image_path": "gold_png",
+			"width": 200,
+			"height": 200,
+			"location": [
+				0,
+				100
+			]
+		}
+	]
+}
